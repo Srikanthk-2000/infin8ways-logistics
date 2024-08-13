@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --primary-main: #87CEEB;
+  --secondary-main: #236F21;
+}
+
+.cardsCarousel-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.cardsCarousel {
+  display: flex;
+  width: 100%;
+}
+
+.cardsSlides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.cardsSlide {
+  flex: 0 0 100%;
+}
+
+.cardsPrev,
+.cardsNext {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  z-index: 2;
+}
+
+.cardsPrev {
+  left: 0;
+}
+
+.cardsNext {
+  right: 0;
+}

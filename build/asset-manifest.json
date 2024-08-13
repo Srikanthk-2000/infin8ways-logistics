@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2387924b.css",
+    "main.js": "/static/js/main.bdc9d4b4.js",
+    "static/media/Warehouse.jpg": "/static/media/Warehouse.df241cce75274d862e41.jpg",
+    "static/media/WarehouseBanner.jpg": "/static/media/WarehouseBanner.17b99b2936c4d5d8c95f.jpg",
+    "static/media/RailBanner.jpg": "/static/media/RailBanner.e22297837a3b66abbed5.jpg",
+    "static/media/co.jpg": "/static/media/co.37c82272a96ba563be43.jpg",
+    "static/media/Courier.jpg": "/static/media/Courier.b6906f19173e93a510e2.jpg",
+    "static/media/LOGO.png": "/static/media/LOGO.e4d8b14c5aef68be78c6.png",
+    "static/media/Customs Brokerage.jpg": "/static/media/Customs Brokerage.a558c559e0dd0919251a.jpg",
+    "static/media/CourierBanner.jpg": "/static/media/CourierBanner.c48842cd007253eab4fc.jpg",
+    "static/media/CustomBanner.png": "/static/media/CustomBanner.c51e74dc5518089d2ea9.png",
+    "static/media/RoadBanner.jpg": "/static/media/RoadBanner.2d318613e4a5587c97e9.jpg",
+    "static/media/Flightcargo.jpg": "/static/media/Flightcargo.368c0d9962713a674aa6.jpg",
+    "static/media/OceanBanner.jpg": "/static/media/OceanBanner.0a38f38da525918b6837.jpg",
+    "static/media/circle.jpg": "/static/media/circle.47c947b16a82da711276.jpg",
+    "static/media/ServicesBanner.jpg": "/static/media/ServicesBanner.953edce6ff99aa927a0d.jpg",
+    "static/media/rail.jpg": "/static/media/rail.962eb2526d056401a23b.jpg",
+    "static/media/polite img.jpg": "/static/media/polite img.08ee2c1604714721d6d7.jpg",
+    "static/media/cargo..jpg": "/static/media/cargo..bdea01f88548ea54cc38.jpg",
+    "static/media/ethics 2.jpg": "/static/media/ethics 2.44c77294d6fb5b20a81d.jpg",
+    "static/media/welfare 2.jpg": "/static/media/welfare 2.796d1d1719fb7df372f2.jpg",
+    "static/media/Consulting Services.jpg": "/static/media/Consulting Services.21a940752f02fae6691e.jpg",
+    "static/media/transportation.jpg": "/static/media/transportation.dbb071ec6a4ba1bc31ea.jpg",
+    "static/media/ship.jpg": "/static/media/ship.10aa2cdd461301da5fe0.jpg",
+    "static/media/service 2.jpg": "/static/media/service 2.510521450dbc6878631f.jpg",
+    "static/media/discipline2.jpg": "/static/media/discipline2.485cb032a3aed822e419.jpg",
+    "static/media/AirBanner.jpg": "/static/media/AirBanner.15072d40721e0bb461a2.jpg",
+    "static/media/vision 2.jpg": "/static/media/vision 2.c98b701d61fb973ee310.jpg",
+    "static/media/trust 2.jpg": "/static/media/trust 2.d078a8ae8b362d36a4f7.jpg",
+    "static/media/valuess 2 (2).jpg": "/static/media/valuess 2 (2).642525970ca9587dbe7f.jpg",
+    "static/media/commitment 2.jpg": "/static/media/commitment 2.a5ee522c384857945c87.jpg",
+    "static/media/humble pic.jpg": "/static/media/humble pic.4f5d78e39302dd727b2b.jpg",
+    "index.html": "/index.html",
+    "main.2387924b.css.map": "/static/css/main.2387924b.css.map",
+    "main.bdc9d4b4.js.map": "/static/js/main.bdc9d4b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2387924b.css",
+    "static/js/main.bdc9d4b4.js"
+  ]
+}
