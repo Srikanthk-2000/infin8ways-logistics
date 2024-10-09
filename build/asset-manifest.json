@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2387924b.css",
-    "main.js": "/static/js/main.bdc9d4b4.js",
+    "main.css": "/static/css/main.37f32945.css",
+    "main.js": "/static/js/main.65c4b94f.js",
     "static/media/Warehouse.jpg": "/static/media/Warehouse.df241cce75274d862e41.jpg",
     "static/media/WarehouseBanner.jpg": "/static/media/WarehouseBanner.17b99b2936c4d5d8c95f.jpg",
     "static/media/RailBanner.jpg": "/static/media/RailBanner.e22297837a3b66abbed5.jpg",
@@ -33,11 +33,11 @@
     "static/media/commitment 2.jpg": "/static/media/commitment 2.a5ee522c384857945c87.jpg",
     "static/media/humble pic.jpg": "/static/media/humble pic.4f5d78e39302dd727b2b.jpg",
     "index.html": "/index.html",
-    "main.2387924b.css.map": "/static/css/main.2387924b.css.map",
-    "main.bdc9d4b4.js.map": "/static/js/main.bdc9d4b4.js.map"
+    "main.37f32945.css.map": "/static/css/main.37f32945.css.map",
+    "main.65c4b94f.js.map": "/static/js/main.65c4b94f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2387924b.css",
-    "static/js/main.bdc9d4b4.js"
+    "static/css/main.37f32945.css",
+    "static/js/main.65c4b94f.js"
   ]
 }
