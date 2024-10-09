@@ -43,11 +43,14 @@ const Footer = () => {
           <div className='font-bold md:text-lg'>
             INDIA: Infin Eightways Shipping & Logistics Private Limited
           </div>
+          <div>
+          <p className='font-bold'>REGD.OFFICE :  </p>
+          </div>
           <p className='pt-2'>
-            9,B3, Pushparagam Apartment,<br />
-            Varasidhivinayagar Koil Street,<br />
-            Virugambakkam,<br />
-            Chennai - 600092.
+          OLD NO.8, NEW 9,B3 Flat, Pushparagam Apartments,<br />
+            Varasidhi Vinayagar Kovil Street,Chinmaya Nagar,<br />
+            Virugambakkam, Chennai - 600092.<br />
+            
           </p>
         </a>
       </div>
